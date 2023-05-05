@@ -26,10 +26,9 @@ The segmentation model is a U-Net architecture that was trained on the Cityscape
 
 The trained weights and model can be downloaded from the following links:
 
-- [unet_vgg19_backbone_30_epochs_weights.h5](https://www.dropbox.com/s/ckbb9vt44qok7u7/unet_vgg19_backbone_30_epochs_weights.h5?dl=0)
 - [unet_vgg19_backbone_30_epochs.h5](https://www.dropbox.com/s/7nmmo3z65ci2jqg/unet_vgg19_backbone_30_epochs.h5?dl=0)
 
-Download both files and place them in the same directory as `segment.py`.
+Download the file and place it in the same directory as `segment.py`.
 
 ## Dataset
 
