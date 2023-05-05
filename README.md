@@ -29,11 +29,11 @@ The trained weights and model can be downloaded from the following links:
 - [unet_vgg19_backbone_30_epochs_weights.h5](https://www.dropbox.com/s/ckbb9vt44qok7u7/unet_vgg19_backbone_30_epochs_weights.h5?dl=0)
 - [unet_vgg19_backbone_30_epochs.h5](https://www.dropbox.com/s/7nmmo3z65ci2jqg/unet_vgg19_backbone_30_epochs.h5?dl=0)
 
-Download both files and place them in the same directory as `CityscapeSegmentation.ipynb`.
+Download both files and place them in the same directory as `segment.py`.
 
 ## Dataset
 
-The dataset used to train the model is the Cityscapes dataset. The dataset contains images of urban environments with pixel-level annotations for 30 different object classes.
+The dataset used to train the model is the Cityscapes dataset. The dataset contains images of urban environments with pixel-level annotations for 30 different object classes. The model was trained on 9 categories.
 
 ## Contributing
 
@@ -41,4 +41,4 @@ Contributions to this project are welcome. If you find a bug or have a feature r
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
