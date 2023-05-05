@@ -24,7 +24,7 @@ The model will segment the image and output an image with the different objects 
 
 The segmentation model is a U-Net architecture that was trained on the Cityscapes dataset. The model is able to segment various objects in urban environments, such as roads, buildings, and vehicles.
 
-The trained weights and model can be downloaded from the following links:
+The trained model can be downloaded from the following link:
 
 - [unet_vgg19_backbone_30_epochs.h5](https://www.dropbox.com/s/7nmmo3z65ci2jqg/unet_vgg19_backbone_30_epochs.h5?dl=0)
 
