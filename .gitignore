@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+checkpoints1
+checkpoints2
+checkpoints3
+data
+logs
+cleaned_data
+unet_vgg19_backbone_30_epochs_weights.h5
+unet_vgg19_backbone_30_epochs.h5
